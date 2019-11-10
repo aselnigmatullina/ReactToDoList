@@ -1,2 +1,2 @@
 # ReactToDoList
-https://aselnigmatullina.github.io/ReactToDoList/
+http://localhost:3000/
